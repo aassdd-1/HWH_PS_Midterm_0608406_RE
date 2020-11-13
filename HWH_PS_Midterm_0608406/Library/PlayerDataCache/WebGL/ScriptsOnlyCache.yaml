@@ -466,4 +466,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/User/Documents/GitHub/Web
+  playerPath: C:/Users/User/Documents/GitHub/web
